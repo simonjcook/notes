@@ -13,7 +13,7 @@ Open or free software is designed in a completely different way. Coders aim to w
 
 So to turn to Rounded Globe. Our site hosts both eBooks and a blog. Both are generated from simple text files formatted as markdown. Markdown is a very simple markup language which is readable to both humans and machines. What this means is that humans can very easily read and edit the raw documents and machines can equally easily convert the text into a plethora of formats - PDF, eBooks, html, whatever the user desires. The information is always accessible and maleable since it is never stored in a secret, proprietary format - there is no gatekeeper.
 
-These plain text documents are stored in a Git repositoryi. Git is a program designed and predominantly used by programmers to facilitate collaboration on coding projects. A Git repository is a centralised store for the work which keeps track of all changes to all the documents and makes them accessible and editable from anywhere in the world. Our eBooks and blog posts are automatically generated from the files in this repository any time they change.
+These plain text documents are stored in a Git repository. Git is a program designed and predominantly used by programmers to facilitate collaboration on coding projects. A Git repository is a centralised store for the work which keeps track of all changes to all the documents and makes them accessible and editable from anywhere in the world. Our eBooks and blog posts are automatically generated from the files in this repository any time they change.
 
 This results in a simple system whereby text files are used to generate our blog posts and eBooks. The latter being generated in epub, mobi (kindle) and html on the fly and with no intervention on our part.
 
