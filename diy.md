@@ -15,7 +15,7 @@ So to turn to Rounded Globe. Our site hosts both eBooks and a blog. Both are gen
 
 These plain text documents are stored in a Git repositoryi. Git is a program designed and predominantly used by programmers to facilitate collaboration on coding projects. A Git repository is a centralised store for the work which keeps track of all changes to all the documents and makes them accessible and editable from anywhere in the world. Our eBooks and blog posts are automatically generated from the files in this repository any time they change.
 
-This results in a simple system whereby text files are used to generate our blog posts and eBooks, The latter being generated in epub, mobi (kindle) and html on the fly and with no intervention on our part.
+This results in a simple system whereby text files are used to generate our blog posts and eBooks. The latter being generated in epub, mobi (kindle) and html on the fly and with no intervention on our part.
 
 Note that we follow the commercial eBook model rather than the academic convention of rendering eBooks and articles as pdf files. Pdfs are useful for embedding lots of visual information within a short text. But their adoption as the default format for books and articles is an attempt to reproduce the printed page on an electronic screen, reminiscent of the way the first printed books were designed to look like handwritten manuscripts. By turning our back on the pdf we remove at a stroke all the costs associated with typesetting a manuscript.
 
